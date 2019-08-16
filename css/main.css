@@ -1,0 +1,27 @@
+.style-header{
+    background-color: #76f5db;
+    color: #111e1f;
+    height: 100vh;
+    font-family: monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.style-header-content{
+    margin: 10px;
+}
+
+.profile_pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    box-shadow: #8bcab9 2px 5px 2px;
+
+}
+
+body{
+    margin: 0;
+}
